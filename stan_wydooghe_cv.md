@@ -47,7 +47,6 @@ UGENT
 - Sybase : T-SQL, Design, Tuning and Administration  
 - Informix / SPL  
 - MS-SQL Server : 2012, 2014, 2016  
-
 - PostgreSQL (Community + EDB) Versions 13–18  
 - EFM (EnterpriseDB Failover Manager)  
 
