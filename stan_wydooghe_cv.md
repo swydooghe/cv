@@ -8,8 +8,9 @@
 
 ## EDUCATION
 
-- 1996 - 1998: Master of Science in Applied Computer Science (Free University Brussels)  
-- 1992 - 1996: Bachelor of Science in Automotive engineering (Hogeschool Gelderland, Technical Faculty – Arnhem NL)  
+- 1992 - 1996: Bachelor of Science in Automotive engineering (Hogeschool Gelderland, Technical Faculty – Arnhem NL)
+- 1996 - 1998: Master of Science in Applied Computer Science (Free University Brussels)
+- 2015 - 2017: Bachelor of Science in Clinical Psychology (UGENT)
 
 ---
 
@@ -17,7 +18,8 @@
 
 ### Operating Systems
 - Unix - Solaris, SunOS, HP UX  
-- Oracle Linux 7.x / 8.x / 9.x, RHEL Linux 7.x / 8.x / 9.x  
+- Oracle Linux 7.x / 8.x / 9.x
+- RHEL Linux 7.x / 8.x / 9.x  
 - Windows 7 - 11, Windows Server 2012 / 2016 / 2019 / 2022  
 - Unix / Linux / Windows shell scripting  
 
