@@ -18,7 +18,7 @@ Bachelor of Science in Automotive Engineering
 Hogeschool Gelderland – Arnhem NL  
 
 **2015 – 2017**  
-Bachelor of Science in Clinical Psychology
+Bachelor of Science in Clinical Psychology  
 UGENT
 
 ---
@@ -89,12 +89,12 @@ UGENT
 - Migrations / upgrades between major Postgres version using Logical Replication or dump/restore  
 - Development and Maintenance of automation scripts in Bash  
 - Incident resolution, performance analysis and tuning  
-- Supporting and advising development Teams on migrations, performance, ILM 
+- Supporting and advising development Teams on migrations, performance, ILM  
 
 **Technology used**
-- Postgres 13-18, EDB (EnterpriseDB) Postgres, EFM (Enterprisedb Failover Manager)
-- Oracle 19.x
-- psql, bash, SQL, Confluence, Jira, ServiceNow
+- Postgres 13-18, EDB (EnterpriseDB) Postgres, EFM (Enterprisedb Failover Manager)  
+- Oracle 19.x  
+- psql, bash, SQL, Confluence, Jira, ServiceNow  
 
 ---
 
